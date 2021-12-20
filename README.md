@@ -13,10 +13,8 @@
 3. This project's goal is to use chatbot, web server and AI for managing patients' diet and daily lives for the ease of work for doctors. Thus, patients can use medical service regardless of time and place
 
 ## Contents
-![KakaoTalk_20211206_221423640](https://user-images.githubusercontent.com/86550939/146793576-62ebded6-492c-49f4-85b7-83c88e1d39dd.png)
-### 카카오톡 채널 -> KakaoTalk Channel
-### AI 서버 -> AI server
-### 카카오톡 오픈빌더 -> KakaoTalk Openbuilder
+![제목 없는 다이어그램 drawio](https://user-images.githubusercontent.com/86550939/146798381-e13c9ac2-590c-4317-a679-9ca047643aab.png)
+
 1. First of all, KakaoTalk is kind of Whatsapp in South Korea, and approximately all of Korean people use this app for communication and many other things.
 2. We created KakaoTalk chatbot. It receives patient's photo of diet and send it to AI server for analysing which foods are in the photo. After analysing it, AI server sends the photo which has result of the analysis to chatbot and chatbot sends it to patient. After that, patient enters the amount of intake for each food. Finally, chatbot calculates calories, carbohydrate, protein, fat, sodium, calcium, vitamin C and saturated fat and gives the patient feedback of his or her diet. Database has a table which contains the information of nutrition of each food and chatbot use the data in database. This is the way chatbot calculates nutrition. Thus, database saves all the information of nutrition and feedback of each patient in itself.
 3. Chatbot also has a survey function. There is a link that patient can conduct the survey for analysing daily life. It asks ten questions for checking whether patient drink enough water or smoke a cigratte and etc. AI analyses answers and give him or her a long feedback.
