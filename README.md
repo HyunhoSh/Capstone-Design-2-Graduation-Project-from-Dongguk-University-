@@ -22,3 +22,7 @@
 3. Chatbot also has a survey function. There is a link that patient can conduct the survey for analysing daily life. It asks ten questions for checking whether patient drink enough water or smoke a cigratte and etc. AI analyses answers and give him or her a long feedback.
 4. On the webpage, patient can check his or her diet and feedback in the past by selecting the date. Those data is from database and those data was saved in previous steps. Especially, on the webpage, he or she can be recommended a nice food or ingrdient which is good for preventing colorectal cancer. 
 5. In the case of doctor, on the webpage, he or she can check the list of patients who he or she manages. By selecting patient, doctor can see the list of diet of patient and he or she can download the diet information which includes numerical nutrition information as csv file.  
+
+
+### Result
+- Won a second 2nd place award among other teams
