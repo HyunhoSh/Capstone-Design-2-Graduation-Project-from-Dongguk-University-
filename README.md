@@ -12,3 +12,4 @@
 3. This project's goal is to use chatbot, web server and AI for managing patients' diet and daily lives for the ease of work for doctors. Thus, patients can use medical service regardless of time and place
 
 ## Contents
+![KakaoTalk_20211206_221423640](https://user-images.githubusercontent.com/86550939/146793576-62ebded6-492c-49f4-85b7-83c88e1d39dd.png)
