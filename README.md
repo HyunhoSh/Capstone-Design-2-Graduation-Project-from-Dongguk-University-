@@ -25,4 +25,4 @@
 
 
 ### Result
-- Won a second 2nd place award among other teams
+- Won a second 2nd place award
