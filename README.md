@@ -24,3 +24,4 @@
 
 ### Result
 - Won a second 2nd place award
+![capstone_design_02](https://user-images.githubusercontent.com/86550939/147870193-38442b24-2df2-43d7-a847-19b31fd9414d.jpg)
